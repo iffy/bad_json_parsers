@@ -41,6 +41,7 @@ ruby       | [json](https://rubygems.org/gems/json/versions/1.8.3)       | 101  
 rust       | [serde_json](https://docs.serde.rs/serde_json/)             | 128           | 256 bytes     |
 php        | `json_decode`                                               | 512           | 1024 bytes    | maximum depth is configurable |
 python3    | [json](https://docs.python.org/3/library/json.html)         | 994           | 2.0 KB        | without sys.setrecursionlimit
+nim        | [json](https://nim-lang.org/docs/json.html)                 | 1989          | 3.9 KB        |
 C          | [jansson](https://jansson.readthedocs.io/)                  | 2049          | 4.0 KB        | 
 java       | [Gson](https://github.com/google/gson)                      | 5670          | 11.3 KB       |
 javascript | `JSON.parse`                                               | 5713          | 11.4 KB       |
